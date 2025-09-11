@@ -1,2 +1,11 @@
-*.DS_Store
+# macOS
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Java
+*.class
+
+# Log files
+*.log
